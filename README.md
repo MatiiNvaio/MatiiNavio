@@ -5,26 +5,27 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Yo soy Matías Navío</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Matías Navío</h1></summary>
   </ul>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img style="width: 200px; height: 200px; object-fit: cover;"  src="images/navio.jpeg"
+       alt="navio"/></a>
 </div>
-
+<br>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Junior Back end Developer</h2></summary>
+    <h3>Trainee Back end developer de, actualmente estudiando el título intermedio de Analista de Sistemas en Universidad Champagnat</h3>
   </ul>
 </div>
 
 
+## Un poco de lo que hago:
 <!--Intro start-->
 - 🔭 Actualmente trabajando con **Java 8+, Spring Boot, Data JPA, APIRest, MVC**, etc
 
@@ -38,62 +39,34 @@
 <!--Intro end-->
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MatiiNvaio&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MatiiNvaio&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiiNvaio&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?MatiiNvaio=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?MatiiNvaio=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?MatiiNvaio=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
+## 🏆 Trofeos de GitHub :
+![](https://github-profile-trophy.vercel.app/?username=MatiiNvaio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## 💻 Tecnologías que domino:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,github,html,idea,java,js,mysql,postman,ts,vscode,angular,postgres,spring&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,postman,vscode,spring&perline=14" />
   </a>
 </p>
 
+## 🧑‍💻 Tecnologías que he usado:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,aws,bootstrap,js,mysql,ts,angular,postgres&perline=14" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Comunicaté conmigo 🤝</h2></summary>
-  </ul>
-</div>
+## 📥 Comunicate conmigo:
 
 <!--icons and links-->
 <p align="center">
