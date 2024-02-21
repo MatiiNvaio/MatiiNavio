@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <h3>Trainee Back end developer de, actualmente estudiando el título intermedio de Analista de Sistemas en Universidad Champagnat</h3>
+    <h3>Trainee Back end developer, actualmente estudiando el título intermedio de Analista de Sistemas en Universidad Champagnat</h3>
   </ul>
 </div>
 
