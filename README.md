@@ -40,12 +40,12 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MatiiNvaio&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatiiNvaio&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiiNvaio&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=matias-navio&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matias-navio&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-navio&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Trofeos de GitHub :
-![](https://github-profile-trophy.vercel.app/?username=MatiiNvaio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=matias-navio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--h1 without bottom border-->
 ## 💻 Tecnologías que domino:
