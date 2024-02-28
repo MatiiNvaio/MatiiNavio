@@ -38,6 +38,23 @@
 - 📝 Otras tecnologías **Postman, Git, UML** 
 <!--Intro end-->
 
+<!--h1 without bottom border-->
+## 💻 Tecnologías que domino:
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,postman,vscode,spring,hibernate&perline=14" />
+  </a>
+</p>
+
+## 🧑‍💻 Tecnologías que he usado:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,aws,bootstrap,js,mysql,ts,angular,postgres,mysql&perline=14" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=matias-navio&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -46,23 +63,6 @@
 
 ## 🏆 Trofeos de GitHub :
 ![](https://github-profile-trophy.vercel.app/?username=matias-navio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!--h1 without bottom border-->
-## 💻 Tecnologías que domino:
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,postman,vscode,spring&perline=14" />
-  </a>
-</p>
-
-## 🧑‍💻 Tecnologías que he usado:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,aws,bootstrap,js,mysql,ts,angular,postgres&perline=14" />
-  </a>
-</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
