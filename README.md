@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <h3>Trainee Back end developer, actualmente estudiando el título intermedio de Analista de Sistemas en Universidad Champagnat</h3>
+    <h3>Junior Back end developer, actualmente estudiando el título intermedio de Analista de Sistemas en Universidad Champagnat y Trabajando como Backend Developer Junior en Cornerstone IT</h3>
   </ul>
 </div>
 
@@ -29,13 +29,11 @@
 <!--Intro start-->
 - 🔭 Actualmente trabajando con **Java 8+, Spring Boot, Data JPA, APIRest, MVC**, etc
 
-- 🌱 Desarrollando pequeñas API´s Rest y en constante aprendizaje
-
-- ☁️ Gran interes en aprender Microservicios, y trabajo en la nube con AWS
+- 🌱 Desarrollando distintas aplicaciones y en constante aprendizaje
 
 - 💬 Bases de datos, he trabajado con relacionales **MySQL, PostgreSQL**
 
-- 📝 Otras tecnologías **Postman, Git, UML** 
+- 📝 Otras tecnologías **Postman, Git, GitHub, GitLab** 
 <!--Intro end-->
 
 <!--h1 without bottom border-->
